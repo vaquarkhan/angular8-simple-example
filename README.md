@@ -1,5 +1,7 @@
 # angular8-simple-example
 
+- https://github.com/ganatan/angular-example-starter
+
 - Install angular 
 
              npm install -g @angular/cli
